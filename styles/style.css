@@ -1,0 +1,8 @@
+.welcome{
+    text-align: center;
+    font: 900 40px Helvetica;
+    background: linear-gradient(to right, #3ba9f4, #9fea63); 
+    background-clip: text; 
+    -webkit-background-clip: text; 
+    color: transparent;    
+}
