@@ -6,3 +6,8 @@
     -webkit-background-clip: text; 
     color: transparent;    
 }
+.summ{
+    text-align: center;
+    color: #f4f4f4; 
+    background-color: #3c6382; 
+}
