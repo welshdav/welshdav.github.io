@@ -91,6 +91,28 @@ nav a: hover:before{
     border-radius: 10px; 
     position: absolute;
     top: 300px; 
-    right: 30%;
+    left: 10%;
+    background: #ffffff;
+}
+
+.skills{
+    font-family: sans-serif;
+    width: 200px; 
+    padding: 40px; 
+    border-radius: 10px; 
+    position: absolute;
+    top: 300px; 
+    left: 40%;
+    background: #ffffff;
+}
+
+.code_lang{
+    font-family: sans-serif;
+    width: 200px; 
+    padding: 40px; 
+    border-radius: 10px; 
+    position: absolute;
+    top: 300px; 
+    right: 40%;
     background: #ffffff;
 }
