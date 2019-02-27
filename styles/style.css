@@ -113,6 +113,6 @@ nav a: hover:before{
     border-radius: 10px; 
     position: absolute;
     top: 300px; 
-    right: 40%;
+    right: 10%;
     background: #ffffff;
 }
