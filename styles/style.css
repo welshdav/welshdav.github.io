@@ -1,5 +1,5 @@
 body{
-     background-color: #3c6382; 
+     background-color: linear-gradient(to bottom, #3c6382, #0a3d62); 
      font-family: sans-serif; 
 }
 #welcome{
@@ -14,4 +14,75 @@ body{
     font-family: sans-serif; 
     text-align: center;
     color: #f4f4f4; 
+}
+
+.base_of_page{
+    position: fixed; 
+    left: 0; 
+    bottom: 0; 
+    width: 100%; 
+    background-color: #ffffff; 
+    color: #a5a5a5; 
+    text-align: center; 
+}
+
+.profHead{
+    background: #576574;
+}
+
+.containerCulture{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.logo{
+    float: left; 
+    padding: 10px 0;
+}
+
+nav{
+    float:right;
+}
+
+nav ul{
+    margin: 0; 
+    padding: 0;
+    list-style: none; 
+}
+
+nav li{
+    display: inline-block; 
+    margin-left: 30px; 
+    padding-top: 15px;
+    padding-bottom: 10px; 
+    
+    position: relative; 
+}
+
+nav a{
+    color: #00a995; 
+    text-decoration: none; 
+    text-transform: uppercase; 
+} 
+
+nav a:hover{
+    color: #2289b6;
+}
+
+nav a::before{
+    content: ''; 
+    display: block;
+    height: 5px;
+    width: 100%; 
+    background-color: #2289b6; 
+    
+    position: absolute; 
+    top: 0; 
+    width: 0%;
+    
+    transition: all ease-in-out 250ms; 
+}
+
+nav a: hover:before{
+    width: 100%;
 }
