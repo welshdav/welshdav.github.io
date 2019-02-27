@@ -83,3 +83,14 @@ nav a::before{
 nav a: hover:before{
     width: 100%;
 }
+
+#idea{
+    font-family: sans-serif;
+    width: 200px; 
+    padding: 40px; 
+    border-radius: 10px; 
+    position: absolute;
+    top: 100px; 
+    right: 30%;
+    background: #ffffff;
+}
