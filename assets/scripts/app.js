@@ -9,3 +9,15 @@ function cMe{
 const profPic{
   onClick={cMe}
 }
+
+class emailAd extends React.Component {
+  render() {
+    return <h1>welshdavmsu@gmail.com</h1>;
+  }
+}
+
+
+ReactDOM.render(
+<MyComponentClass />,
+  document.getElementById('contact')
+);
