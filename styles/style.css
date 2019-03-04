@@ -118,3 +118,23 @@ nav a: hover:before{
     right: 10%;
     background: #ffffff;
 }
+
+#emAi{
+    text-align: center;
+    float: left; 
+    font: 900 30px Helvetica;
+    background: linear-gradient(to right, #c23616, #e84118); 
+    background-clip: text; 
+    -webkit-background-clip: text; 
+    color: transparent;    
+}
+
+#phnNum{
+    text-align: center;
+    float: right; 
+    font: 900 30px Helvetica;
+    background: linear-gradient(to right, #1289A7, #12CBC4); 
+    background-clip: text; 
+    -webkit-background-clip: text; 
+    color: transparent;    
+}
