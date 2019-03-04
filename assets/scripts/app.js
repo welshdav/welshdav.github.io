@@ -6,13 +6,28 @@ function cMe{
   e.target.setAttribute('alt', 'headshot'); 
 }
 
+const NavBar extends React.Component{
+  render() {
+    const Pages = ['index', 'portfolio', 'contact']; 
+    const navLinks  = pages.map(page => {
+      return (
+        <a href={'/' + page}>
+          {page}
+        </a>
+      )
+    });
+
+    return <nav>{navLinks}</nav>;
+  }
+}
+
 const profPic{
   onClick={cMe}
 }
 
 class emailAd extends React.Component {
   render() {
-    return <h1>welshdavmsu@gmail.com</h1>;
+    return <h4>welshdavmsu@gmail.com</h4>;
   }
 }
 
