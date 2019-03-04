@@ -131,9 +131,9 @@ nav a: hover:before{
 
 #phnNum{
     text-align: center;
-    float: right; 
+    float: right 90%; 
     font: 900 30px Helvetica;
-    background: linear-gradient(to right, #1289A7, #12CBC4); 
+    background: linear-gradient(to right, #10ac84, #1dd1a1); 
     background-clip: text; 
     -webkit-background-clip: text; 
     color: transparent;    
