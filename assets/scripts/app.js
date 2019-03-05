@@ -36,3 +36,13 @@ ReactDOM.render(
 <MyComponentClass />,
   document.getElementById('contact')
 );
+
+$(document).ready(() => {
+  const $mp_T = $('.mp_T');
+  const $tools = $('#tools');
+
+	$mp_T.on('click', () => {
+    $tools.show(); 
+  })
+
+})
