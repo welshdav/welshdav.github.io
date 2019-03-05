@@ -38,11 +38,9 @@ ReactDOM.render(
 );
 
 $(document).ready(() => {
-  const $mp_T = $('.mp_T');
-  const $tools = $('#tools');
+  const $menuButton = $('.menu-button');
+  const $navDropdown = $('#nav-dropdown');
 
-	$mp_T.on('click', () => {
-    $tools.show(); 
+  $menuButton.on('click', () => {
+    $navDropdown.show();
   })
-
-})
