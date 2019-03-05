@@ -132,7 +132,7 @@ nav a: hover:before{
 
 #phnNum{
     text-align: center;
-    float: right 10%; 
+    float: right 90%; 
     font: 900 30px Helvetica;
     background: linear-gradient(to right, #10ac84, #1dd1a1); 
     background-clip: text; 
