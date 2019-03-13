@@ -110,7 +110,7 @@ nav a: hover:before{
 
 .code_lang{
     font-family: sans-serif;
-    width: 200px; 
+    width: 25%; 
     padding: 40px; 
     border-radius: 10px; 
     position: absolute;
