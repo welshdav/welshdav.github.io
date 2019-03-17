@@ -4,6 +4,13 @@ body{
      background-color: #0a3d62;
      font-family: sans-serif; 
 }
+
+.port_body{
+     background-image: url("images/kyler-boone-1391908-unsplash.jpg"); 
+     height: 100%; 
+     width: 100%; 
+}
+
 #welcome{
     text-align: center;
     font: 900 40px Helvetica;
@@ -12,6 +19,7 @@ body{
     -webkit-background-clip: text; 
     color: transparent;    
 }
+
 .summ{
     font-family: sans-serif; 
     text-align: center;
