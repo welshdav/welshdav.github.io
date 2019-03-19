@@ -45,5 +45,18 @@ $(document).ready(() => {
     $navDropdown.show();
   })
 
+   $('#help').on('click', () =>{
+    $('#helpMenu').show(); 
+  });
   
+   $('#help').on('click', () =>{
+    $('#helpMenu').show(); 
+  });
   
+   $('#help').on('click', () =>{
+    $('#helpMenu').show(); 
+  });
+  
+  	$('.dropdown-menu').on('mouseleave', () =>{
+      $('.dropdown-menu').hide()
+    });
