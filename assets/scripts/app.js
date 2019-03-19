@@ -49,12 +49,12 @@ $(document).ready(() => {
     $('#helpMenu').show(); 
   });
   
-   $('#help').on('click', () =>{
-    $('#helpMenu').show(); 
+   $('#sk_menu').on('click', () =>{
+    $('#skis').show(); 
   });
   
-   $('#help').on('click', () =>{
-    $('#helpMenu').show(); 
+   $('#c_menu').on('click', () =>{
+    $('#c_lang').show(); 
   });
   
   	$('.dropdown-menu').on('mouseleave', () =>{
