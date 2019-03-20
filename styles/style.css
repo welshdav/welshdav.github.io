@@ -1,4 +1,4 @@
-body{
+.ind_body{
      height: 100%; 
      width: 100%; 
      background-color: #0a3d62;
@@ -9,6 +9,7 @@ body{
      background-color: linear-gradient(to bottom right, #ecf0f1, #bdc3c7); 
      height: 100%; 
      width: 100%; 
+     font-family: sans-serif; 
 }
 
 #welcome{
