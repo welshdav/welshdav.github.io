@@ -6,7 +6,7 @@ body{
 }
 
 .port_body{
-     background-image: url("images/kyler-boone-1391908-unsplash.jpg"); 
+     background-color: linear-gradient(to bottom right, #ecf0f1, #bdc3c7); 
      height: 100%; 
      width: 100%; 
 }
