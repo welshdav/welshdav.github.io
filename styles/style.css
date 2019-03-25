@@ -17,8 +17,7 @@
     font: 900 40px Helvetica;
     color: #45aaf2; 
     background-clip: text; 
-    -webkit-background-clip: text; 
-    color: transparent;    
+    -webkit-background-clip: text;    
 }
 
 .summ{
