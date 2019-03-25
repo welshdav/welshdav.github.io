@@ -14,10 +14,8 @@
 
 #welcome{
     text-align: center;
-    font: 900 40px Helvetica;
-    color: #45aaf2; 
-    background-clip: text; 
-    -webkit-background-clip: text;    
+    font: 40px Helvetica;
+    color: #45aaf2;  
 }
 
 .summ{
