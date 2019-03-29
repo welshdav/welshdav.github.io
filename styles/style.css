@@ -35,6 +35,10 @@
     text-align: center; 
 }
 
+#mpPic{
+     width: 100px; 
+     height: 100px; 
+}
 
 .containerCulture{
     width: 80%;
