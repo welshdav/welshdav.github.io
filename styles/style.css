@@ -36,15 +36,33 @@
 }
  
 .myPa_{
-     float-left: 20%; 
-     color: #e84118; 
-     text-shadow: 1px 1px #c23616; 
+     float: left 20%; 
+     color: #48dbfb; 
+     text-shadow: 1px 1px #0abde3; 
 }
 
 #mpPic{
      width: 100px; 
      height: 100px; 
 }
+
+.a5{
+     float: left 50%; 
+     color: #e84118; 
+     text-shadow: 1px 1px #c23616; 
+}
+
+#a5L{
+     width: 100px; 
+     height: 100px; 
+}
+
+.bgUp{
+     float: right 20%; 
+     color: #7f8fa6; 
+     text-shadow: 1px 1px #718093; 
+}
+
 
 .containerCulture{
     width: 80%;
