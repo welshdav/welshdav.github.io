@@ -36,9 +36,9 @@
 }
  
 .myPa_{
-     float: left 20%; 
-     color: #48dbfb; 
-     text-shadow: 1px 1px #0abde3; 
+     float: left; 
+     color: #e84118; 
+     text-shadow: 1px 1px #c23616; 
 }
 
 #mpPic{
@@ -47,9 +47,9 @@
 }
 
 .a5{
-     float: left 50%; 
-     color: #e84118; 
-     text-shadow: 1px 1px #c23616; 
+     float: left; 
+     color: #48dbfb; 
+     text-shadow: 1px 1px #0abde3; 
 }
 
 #a5L{
