@@ -37,7 +37,7 @@
  
 .myPa_{
      float: left; 
-     padding: 50px
+     padding: 50px;
      color: #e84118; 
      text-shadow: 1px 1px #c23616; 
 }
@@ -49,7 +49,7 @@
 
 .a5{
      float: left; 
-     padding 100px
+     padding 100px;
      color: #48dbfb; 
      text-shadow: 1px 1px #0abde3; 
 }
