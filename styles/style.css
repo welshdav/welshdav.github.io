@@ -36,7 +36,7 @@
 }
  
 .myPa_{
-     float: left; 
+     float: left 10%; 
      color: #e84118; 
      text-shadow: 1px 1px #c23616; 
 }
