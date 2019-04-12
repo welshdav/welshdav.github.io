@@ -36,7 +36,8 @@
 }
  
 .myPa_{
-     float: left 10%; 
+     float: left;
+     width: 33%;
      color: #e84118; 
      text-shadow: 1px 1px #c23616; 
 }
@@ -47,7 +48,8 @@
 }
 
 .a5{
-     float: left 50%; 
+     float: left;
+     width: 33%; 
      color: #48dbfb; 
      text-shadow: 1px 1px #0abde3; 
 }
@@ -58,7 +60,8 @@
 }
 
 .bgUp{
-     float: left 90%; 
+     float: left; 
+     width: 33%;
      color: #7f8fa6; 
      text-shadow: 1px 1px #718093; 
 }
