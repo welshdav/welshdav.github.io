@@ -66,6 +66,11 @@
      text-shadow: 1px 1px #718093; 
 }
 
+#bg_logo{ 
+     width: 100px; 
+     height: 100px;
+}
+
 #exc{
      color: #487eb0; 
      text-shadow: 1px 1px ##40739e;
