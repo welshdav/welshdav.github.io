@@ -139,6 +139,10 @@ nav a: hover:before{
     width: 100%;
 }
 
+a:visited{
+     color: #1dd1a1; 
+}
+
 #idea{
     font-family: sans-serif;
     width: 15%; 
