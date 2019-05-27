@@ -37,10 +37,17 @@
                     <a href="https://medium.com/me/stories/public">Medium/ De Facto Blog</a> </p>
             </footer>
         </div>
-         <script
-            src="https://code.jquery.com/jquery-3.2.1.min.js"
-            integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
-            crossorigin="anonymous"></script>
-	<script src="/assets/scripts/app.js">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+ 	<script type="text/javascript" src="script.js"></script>
+  	<script>
+   window.onload = function() {
+   if (window.jQuery) {  
+       // jQuery is loaded  
+       alert("Yeah!");
+   } else {
+    location.reload();
+   }
+}
+  	</script>
     </body>
 </html>
