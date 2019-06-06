@@ -3,15 +3,15 @@
     font-family: 'Lilita One', cursive;
 }
 
-.intro_pic{
-    align-content: center; 
-    height: 750px; 
+.intro_pic{ 
+    height: 1000px; 
 }
 
 #prof_pic{
     border-radius: 15px 50px 30px 5px;
     height: 700px; 
     width: 450px; 
+    align-content: center;
 }
 
 .name{
@@ -21,4 +21,7 @@
 }
 
 .summary{
-    
+    font-size: 2em; 
+    text-align: center; 
+    color: #c8d6e5;     
+}
