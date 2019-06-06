@@ -5,13 +5,14 @@
 
 .intro_pic{ 
     height: 1000px; 
+    margin: auto; 
+    width: 50%; 
 }
 
 #prof_pic{
     border-radius: 15px 50px 30px 5px;
     height: 700px; 
-    width: 450px; 
-    align-content: center;
+    width: 450px;
 }
 
 .name{
