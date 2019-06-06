@@ -3,8 +3,22 @@
     font-family: 'Lilita One', cursive;
 }
 
+.intro_pic{
+    align: center; 
+    height: 750px; 
+}
+
+#prof_pic{
+    border-radius: 15px 50px 30px 5px;
+    height: 500px; 
+    width: 250px; 
+}
+
 .name{
     font-size: 2em; 
     text-align: center; 
     color: #c8d6e5; 
 }
+
+.summary{
+    
