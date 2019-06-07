@@ -30,17 +30,25 @@
 .design{
     float: left;
     width: 30%; 
+    text-align: center; 
+    font-size: 3em; 
 }
 .develop{
     float: left;
     width: 30%; 
+    text-align: center; 
+    font-size: 3em; 
 }
 .deploy{
     float: left;
     width: 30%; 
+    text-align: center; 
+    font-size: 3em; 
 }
 .designHead{
     align-content: center; 
+    text-align: center; 
+    font-size: 2em; 
 }
 .designHead ul{
     list-style-type: none;
