@@ -26,3 +26,22 @@
     text-align: center;     
     height: 500px; 
 }
+
+.design{
+    float: left;
+    width: 30%; 
+}
+.develop{
+    float: left;
+    width: 30%; 
+}
+.deploy{
+    float: left;
+    width: 30%; 
+}
+.designHead{
+    align-content: center; 
+}
+.designHead ul{
+    list-style-type: none;
+}
