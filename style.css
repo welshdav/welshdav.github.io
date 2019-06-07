@@ -1,6 +1,7 @@
 *{
     background-color: #222f3e; 
     font-family: 'Lilita One', cursive;
+    color: #c8d6e5;
 }
 
 .intro_pic{ 
@@ -18,12 +19,10 @@
 .name{
     font-size: 2em; 
     text-align: center; 
-    color: #c8d6e5; 
 }
 
 .summary{
     font-size: 2em; 
-    text-align: center; 
-    color: #c8d6e5;    
+    text-align: center;     
     height: 500px; 
 }
