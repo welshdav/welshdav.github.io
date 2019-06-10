@@ -1,0 +1,55 @@
+*{
+    background-color: #222f3e; 
+    font-family: 'Lilita One', cursive;
+    color: #c8d6e5;
+}
+
+.intro_pic{ 
+    height: 1000px; 
+    margin: auto; 
+    width: 30%; 
+}
+
+#prof_pic{
+    border-radius: 15px 50px 30px 5px;
+    height: 700px; 
+    width: 450px;
+}
+
+.name{
+    font-size: 2em; 
+    text-align: center; 
+}
+
+.summary{
+    font-size: 2em; 
+    text-align: center;     
+    height: 500px; 
+}
+
+.design{
+    float: left;
+    width: 30%; 
+    text-align: center; 
+    font-size: 3em; 
+}
+.develop{
+    float: left;
+    width: 30%; 
+    text-align: center; 
+    font-size: 3em; 
+}
+.deploy{
+    float: left;
+    width: 30%; 
+    text-align: center; 
+    font-size: 3em; 
+}
+.designHead{
+    align-content: center; 
+    text-align: center; 
+    font-size: 2em; 
+}
+.designHead ul{
+    list-style-type: none;
+}
